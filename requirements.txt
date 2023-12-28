@@ -1,0 +1,4 @@
+pymysql
+SQLAlchemy
+streamlit
+pandas
