@@ -12,7 +12,7 @@ Process:
 ## Prerequisites
 
 - GitHub account
-- Aiven account with a MySQL database instance
+- Given account with a MySQL database instance
 - Python and Streamlit installed
 - Knowledge of SQL
 
